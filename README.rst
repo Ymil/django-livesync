@@ -1,5 +1,5 @@
 What's this project?
-=================
+====================
 
 It's a simple Django application which will automatically reload
 your browser everytime Django Development Server is restarted or
@@ -12,7 +12,7 @@ Quick start guide
 
 Before installing, you'll need to have a copy of
 `Django <http://www.djangoproject.com>`_ already installed. For the
-current release, Django 1.8 or newer is required.
+current release, Django 3 or newer is required.
 
 For further information, consult the `Django download page
 <http://www.djangoproject.com/download/>`_, which offers convenient
@@ -27,7 +27,7 @@ Automatic installation using PyPI
 
 type::
 
-    pip install django-livesync
+    pip install django3-livesync
 
 
 Basic configuration and use
